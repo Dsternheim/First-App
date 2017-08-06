@@ -35,7 +35,7 @@
                                     <constraint firstAttribute="height" constant="21" id="IGW-eb-wOk"/>
                                     <constraint firstAttribute="width" constant="160" id="mxx-4W-Own"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="17"/>
                                 <color key="textColor" red="0.35294117650000001" green="0.35294117650000001" blue="0.35294117650000001" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -45,7 +45,7 @@
                                     <constraint firstAttribute="width" constant="42" id="IVU-b2-e1R"/>
                                     <constraint firstAttribute="height" constant="21" id="po7-h5-zzr"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="17"/>
                                 <color key="textColor" red="0.10588235294117647" green="0.10588235294117647" blue="0.10588235294117647" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -61,7 +61,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="9IL-Qe-OeA"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -76,7 +76,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="prl-rp-Vdc"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -91,7 +91,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="qkh-IP-4TM"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -106,7 +106,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="1Yo-Dh-8Zf"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -120,6 +120,7 @@
                                     <constraint firstAttribute="width" constant="140" id="vpy-Fv-rk6"/>
                                     <constraint firstAttribute="height" constant="15" id="z14-ds-Pf4"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="16"/>
                                 <state key="normal" title="Choose Your State">
                                     <color key="titleColor" red="1" green="0.3605136554381847" blue="0.32996565947830148" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -142,7 +143,7 @@
                                     <constraint firstAttribute="width" constant="334" id="3rd-Dr-Otu"/>
                                     <constraint firstAttribute="height" constant="21" id="Ijb-D7-Aoa"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -157,7 +158,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="oam-PO-DAg"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
